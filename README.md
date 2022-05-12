@@ -35,4 +35,4 @@ Assembly | n/a | Nothing | Very not experienced but very interested; VERY willin
 
 [^1]: I lied. I made a very cool (for 2000s standards) page in pure HTML and some CSS to impress the teacher and all my classmates in elementary school once.
 [^2]: There's definitely a loophole, though.
-[^3]: (Check this out)[https://twitter.com/NewWorld4MC]
+[^3]: [Check this out](https://twitter.com/NewWorld4MC)
