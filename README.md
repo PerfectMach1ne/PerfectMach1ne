@@ -24,11 +24,13 @@ Assembly | n/a | Nothing | Very not experienced but very interested; VERY willin
 ### Non-coder skills/areas of interest
 
 * **Mathematics** (I'm trying my best)
-  * Calculus (one day I **will** understand it on satisfactory level, I believe it)
-  * Combinatorics (super hard but super fun)
-* **Electronics** (learning about it whenever I got time)
-* Physics, chemistry, biology, astronomy... (Most 10 year olds are better at all of those than me at the moment)
-* Drawing and writing (more personal and GitHub's *probably not* the place for it[^2].)
+  * Calculus & analysis (one day I **will** understand it on satisfactory level, I believe it, I believe in me)
+  * Statistics (winter semester 3 taught me to love it)
+  * Combinatorics (super hard and tough to learn, but super fun and rewarding to comprehend and play with)
+  * Topology (sometimes I daydream about being skilled enough in mathematics to be able to jump into this rabbithole)
+* **Electronics** (learning stuff about it whenever I got time)
+* Physics, chemistry, biology, astronomy... (I am interested but that's it really; most 10 year olds are better at all of those than me as of current)
+* Drawing and writing, art in general (more personal and GitHub's *probably not* the place for those[^2].)
 
 [^1]: I lied. I made a very cool (for 2000s standards) page in pure HTML and some CSS to impress the teacher and all my classmates in elementary school once.
 [^2]: There's definitely a loophole, though.
