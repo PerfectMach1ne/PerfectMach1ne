@@ -31,6 +31,8 @@ Assembly | n/a | Nothing | Very not experienced but very interested; VERY willin
 * **Electronics** (learning stuff about it whenever I got time)
 * Physics, chemistry, biology, astronomy... (I am interested but that's it really; most 10 year olds are better at all of those than me as of current)
 * Drawing and writing, art in general (more personal and GitHub's *probably not* the place for those[^2].)
+* Minecraft (I have a singleplayer survival world that I've kept alive since 26th September 2019[^3])
 
 [^1]: I lied. I made a very cool (for 2000s standards) page in pure HTML and some CSS to impress the teacher and all my classmates in elementary school once.
 [^2]: There's definitely a loophole, though.
+[^3]: (Check this out)[https://twitter.com/NewWorld4MC]
