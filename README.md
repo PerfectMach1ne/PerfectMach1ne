@@ -21,4 +21,12 @@ Python | 4 months (as of end of June 2022) | Weak | Finished a course in it but 
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
 Assembly | n/a | Nothing | Very not experienced but very interested; VERY willing to learn about anything backend related.
 
+### Non-coder skills/areas of interest
+
+* **Mathematics** (I'm trying my best)
+* **Electronics** (learning about it whenever I got time)
+* Physics, chemistry, biology, astronomy... (Most 10 year olds are better at all of those than me at the moment)
+* Drawing and writing (more personal and GitHub's *probably not* the place for it[^2].)
+
 [^1]: I lied. I made a very cool (for 2000s standards) page in pure HTML and some CSS to impress the teacher and all my classmates in elementary school once.
+[^2]: There's definitely a loophole, though.
