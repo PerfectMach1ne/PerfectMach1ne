@@ -21,4 +21,4 @@ Python | 4 months (as of end of June 2022) | Weak | Finished a course in it but 
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
 Assembly | n/a | Nothing | Very not experienced but very interested; VERY willing to learn about anything backend related.
 
-[^1]: I lied. I made a very cool (for 2000s standards) page in pure HTML and some CSS to impress teacher and all my classmates in elementary school once.
+[^1]: I lied. I made a very cool (for 2000s standards) page in pure HTML and some CSS to impress the teacher and all my classmates in elementary school once.
