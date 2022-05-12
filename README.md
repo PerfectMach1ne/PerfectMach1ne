@@ -20,6 +20,7 @@ JS/HTML/CSS | 5 months (as of end of June 2022) | Weak | I'm a total newbie[^1] 
 Python | 4 months (as of end of June 2022) | Decent | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
 Assembly | n/a | Nothing | Very not experienced but very interested; VERY willing to learn about anything backend related.
+Git and Github | - | Clueless | I just still get really confused with all this pull push and commit stuff.
 
 ### Non-coder skills/areas of interest
 
