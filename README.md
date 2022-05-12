@@ -24,8 +24,8 @@ Assembly | n/a | Nothing | Very not experienced but very interested; VERY willin
 ### Non-coder skills/areas of interest
 
 * **Mathematics** (I'm trying my best)
-** Calculus (one day I **will** understand it on satisfactory level, I believe it)
-** Combinatorics (super hard but super fun)
+  * Calculus (one day I **will** understand it on satisfactory level, I believe it)
+  * Combinatorics (super hard but super fun)
 * **Electronics** (learning about it whenever I got time)
 * Physics, chemistry, biology, astronomy... (Most 10 year olds are better at all of those than me at the moment)
 * Drawing and writing (more personal and GitHub's *probably not* the place for it[^2].)
