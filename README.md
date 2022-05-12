@@ -12,8 +12,8 @@ Currently working on a Bachelors degree in Computer Science. At my 2nd year and 
 
 Language | Months spent with it (approx.) | Skill strength | My plans
 --- | --- | --- | ---
-C | 25 months | Decent | Slowly reading "The C Programming Language" whenever I have time.
-C++ | 22 months | Decent | Want to and **will** come back to it some day; I want to go through "Thinking in C++" from start to finish.
+C | 25 months | Decent | Slowly reading "The C Programming Language" whenever I have time. I have as much love for it in my brain and heart as I do for C++.
+C++ | 22 months | Decent | My first ever beloved language. Want to and **will** come back to it some day; I want to go through "Thinking in C++" from start to finish.
 Java | 9 months | Kinda decent | Not my favourite language, but I'm willing to do some projects in it; uni made me use it for 3 classes.
 SQL | 8 months | Weakly decent | Very not experienced but very *yest* interested; **VERY** willing to learn about anything backend related.
 JS/HTML/CSS | 5 months (as of end of June 2022) | Weak | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
