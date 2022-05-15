@@ -27,6 +27,7 @@ Git and Github | - | Clueless | I just still get really confused with all this p
 * **Mathematics** (I'm trying my best)
   * Calculus & analysis (one day I **will** understand it on satisfactory level, I believe it, I believe in me)
   * Statistics (winter semester 3 taught me to love it)
+  * Graph theory (I always liked graphs, but summer semester 4 made me like them even more)
   * Combinatorics (super hard and tough to learn, but super fun and rewarding to comprehend and play with)
   * Topology (sometimes I daydream about being skilled enough in mathematics to be able to jump into this rabbithole)
 * **Electronics** (learning stuff about it whenever I got time)
