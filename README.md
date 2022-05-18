@@ -16,7 +16,7 @@ C | 25 months | Decent | Slowly reading "The C Programming Language" whenever I 
 C++ | 22 months | Decent | My first ever beloved language. Want to and **will** come back to it some day; I want to go through "Thinking in C++" from start to finish.
 Java | 9 months | Kinda decent | Not my favourite language, but I'm willing to do some projects in it; uni made me use it for 3 classes.
 SQL | 8 months | Kinda decent | Very not experienced but very *yest* interested; **VERY** willing to learn about anything backend related.
-JS/HTML/CSS | 5 months (as of end of June 2022) | Weak | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
+JavaScript/HTML/CSS | 5 months (as of end of June 2022) | Weak | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
 Python | 4 months (as of end of June 2022) | Decent | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
 Assembly | n/a | Nothing | Very not experienced but very interested; VERY willing to learn about anything backend related.
