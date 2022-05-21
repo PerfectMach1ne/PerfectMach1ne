@@ -10,7 +10,7 @@ Currently working on a Bachelors degree in Computer Science. At my 2nd year and 
 
 ### Repo stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=45,D8B7EF,0023FF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=45,D8B7EF,0023FF&text_color=FFFFFF,&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 
