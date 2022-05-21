@@ -6,6 +6,8 @@ I'm planning to use Github to store and archive all my coding related projects (
 
 Currently working on a Bachelors degree in Computer Science. At my 2nd year and 4th semester as of now.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 -----
 
 ### My experience with programming languages (and a few more things)
