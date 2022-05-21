@@ -24,6 +24,7 @@ Java | 9 months | Familiar | Not my favourite language, but I'm willing to do so
 SQL | 8 months | Poor | Very not experienced but very *yest* interested; **VERY** willing to learn about anything backend related.
 JavaScript/HTML/CSS | 5 months (as of end of June 2022) | Learning | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
 Python | 4 months (as of end of June 2022) | Learning | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
+Vue.js (2.x) | 2 months (as of end of June 2022) | Learning | My first JavaScript framework. Learning for a university course, planning to continue out of own interest.
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
 Git and Github | - | Mostly clueless | I'm doing my best lol
 ### Non-coder skills/areas of interest
