@@ -21,7 +21,7 @@ Language | Months spent with it (approx.) | Skill strength | My plans
 C | 25 months | Learning | Slowly reading "The C Programming Language" whenever I have time. I have as much love for it in my brain and heart as I do for C++.
 C++ | 22 months | Familiar | My first ever beloved language. Want to and **will** come back to it some day; I want to go through "Thinking in C++" from start to finish.
 Java | 9 months | Familiar | Not my favourite language, but I'm willing to do some projects in it; uni made me use it for 3 classes.
-SQL | 8 months | Poor | Very not experienced but very *yest* interested; **VERY** willing to learn about anything backend related.
+SQL | 5 months | Poor | Very not experienced but very interested; **VERY** willing to learn about anything backend related.
 JavaScript/HTML/CSS | 5 months (as of end of June 2022) | Learning | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
 Python | 4 months (as of end of June 2022) | Learning | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
 Vue.js (2.x) | 2 months (as of end of June 2022) | Learning | My first JavaScript framework. Learning for a university course, planning to continue out of own interest.
