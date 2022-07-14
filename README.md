@@ -10,6 +10,8 @@ Currently working on a Bachelors degree in Computer Science. At my 2nd year and 
 
 ### Repo stats
 
+The day some language pushes out Java %age to the second place will be a day I'll make sure to celebrate.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=45,D8B7EF,0023FF&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
@@ -22,9 +24,9 @@ C | 25 months | Learning | Slowly reading "The C Programming Language" whenever 
 C++ | 22 months | Familiar | My first ever beloved language. Want to and **will** come back to it some day; I want to go through "Thinking in C++" from start to finish.
 Java | 10 months | Familiar | Not my favourite language, but I'm willing to do some projects in it; uni made me use it for 3 classes.
 SQL | 5 months | Poor | Very not experienced but very interested; **VERY** willing to learn about anything backend related.
-JavaScript/HTML/CSS | 5 months (as of end of June 2022) | Learning | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
-Python | 4 months (as of end of June 2022) | Learning | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
-Vue.js (2.x) | 2 months (as of end of June 2022) | Learning | My first JavaScript framework. Learning for a university course, planning to continue out of own interest.
+JavaScript/HTML/CSS | 5 months | Learning | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
+Python | 4 months | Learning | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
+Vue.js (2.x) | 2 months | Learning | My first JavaScript framework. Learning for a university course, planning to continue out of own interest.
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
 Git and Github | - | Mostly clueless | I'm doing my best lol
 ### Non-coder skills/areas of interest
