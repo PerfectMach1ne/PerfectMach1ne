@@ -20,10 +20,10 @@ The day some language pushes out Java %age to the second place will be a day I'l
 
 Language | Months spent with it (approx.) | Skill strength | My plans
 --- | --- | --- | ---
-C | 25 months | Learning | Slowly reading "The C Programming Language" whenever I have time. I have as much love for it in my brain and heart as I do for C++.
+C | 25 months | Learning (on hold) | Slowly reading "The C Programming Language" whenever I have time. I have as much love for it in my brain and heart as I do for C++.
 C++ | 22 months | Familiar | My first ever beloved language. Want to and **will** come back to it some day; I want to go through "Thinking in C++" from start to finish.
-Java | 10 months | Familiar | Not my favourite language, but I'm willing to do some projects in it; uni made me use it for 3 classes.
-SQL | 5 months | Poor | Very not experienced but very interested; **VERY** willing to learn about anything backend related.
+Java | 10 months | Learning | Not my favourite language, but I'm willing to do some projects in it; uni made me use it for 3 classes.
+SQL | 5 months | Learning | Very not experienced but very interested; **VERY** willing to learn about anything backend related.
 JavaScript/HTML/CSS | 5 months | Learning | I'm a total newbie[^1] to frontend and I had to work with it for university. Willing to learn more.
 Python | 4 months | Learning | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
 Vue.js (2.x) | 2 months | Learning | My first JavaScript framework. Learning for a university course, planning to continue out of own interest.
