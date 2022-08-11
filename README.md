@@ -28,7 +28,7 @@ JavaScript/HTML/CSS | 5 months | Learning | I'm a total newbie[^1] to frontend a
 Python | 4 months | Learning | Finished a paid university based course in it but I still need a lot of studying, practice and some reason to use it.
 Vue.js (2.x) | 2 months | Learning | My first JavaScript framework. Learning for a university course, planning to continue out of own interest.
 C# | 0.1 months | Coded a 'Hello World' | Interested in learning it in the future.
-Git and Github | - | Mostly clueless | I'm doing my best lol
+Git and Github | - | Very basic | I understand the basics, but still struggle a bit with errors sometimes.
 ### Non-coder skills/areas of interest
 
 * **Mathematics** (I'm trying my best)
