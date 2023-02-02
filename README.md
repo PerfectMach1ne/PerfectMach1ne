@@ -16,4 +16,12 @@ The day some language pushes out Java %age to the second place will be a day I'l
 
 -----
 
+### 2023 quarter I (January-February-Marchuary) kilometerrocks
 
+
+- [ ] Survive
+- [x] Revive & work on MedSheet project (tracking med intake hours, Python, Google Sheets API, gspread) 
+- [ ] Get done with my "frontend technologies" class (project, Figma design and Bootstrap code)
+- [ ] Get done with my "backend technologies" class (project, Node.js, Swagger, OpenAPI YAML stuff, something else idk dude)
+- [ ] Revise and practice SQL like a lot
+- [ ] Understand HTML & CSS better than JavaScript (thanks academia)
