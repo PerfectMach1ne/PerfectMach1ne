@@ -25,3 +25,4 @@ The day some language pushes out Java %age to the second place will be a day I'l
 - [ ] Get done with my "backend technologies" class (project, Node.js, Swagger, OpenAPI YAML stuff, something else idk dude)
 - [ ] Revise and practice SQL like a lot
 - [ ] Understand HTML & CSS better than JavaScript (thanks academia)
+- [ ] Get a job because government won't pay for my funny cyan pills and cafe visits
