@@ -12,7 +12,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 5t
 
 The day some language pushes out Java %age to the second place will be a day I'll make sure to celebrate.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=45,D8B7EF,0023FF&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=45,D8B7EF,0023FF&text_color=FFFFFF&title_color=FFFFFF&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
 
