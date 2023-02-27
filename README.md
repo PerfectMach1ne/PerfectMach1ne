@@ -10,10 +10,23 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 5t
 
 ### Repo stats because they look coooool
 
-The day some language pushes out Java %age to the second place will be a day I'll make sure to celebrate.
+**Most Used Languages** Java-free since `25/02/2023` thanks to __`Jupyter Notebook`__ and my __Machine Learning__ studies.
+
+**Top Languages by Repo** still plagued by Java.
+
+**Top Languages by Commit** still plagued by Java.
+
+The day some language pushes out Java %age out of all of those to the fifth place will be a day I'll make sure to celebrate.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=45,D8B7EF,0023FF&text_color=FFFFFF&title_color=FFFFFF&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PerfectMach1ne&theme=github_dark) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1) 
+ 
 -----
 
 ### 2023 quarter I (January-February-Marchuary) kilometerrocks
