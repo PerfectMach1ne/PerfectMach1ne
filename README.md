@@ -39,5 +39,5 @@ The day some language pushes out Java %age out of all of those to the fifth plac
 - [x] Get done with my "frontend technologies" class (project, Figma design and Bootstrap code)
 - [ ] Get done with my "backend technologies" class (project, Node.js, Swagger, OpenAPI YAML stuff, something else idk dude)
 - [x] Revise and practice SQL like a lot
-~~- [ ] Understand HTML & CSS better than JavaScript (thanks academia)~~
+- [ ] ~~Understand HTML & CSS better than JavaScript (thanks academia)~~
 - [ ] Get a job because government won't pay for my funny cyan pills and cafe visits
