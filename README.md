@@ -4,21 +4,11 @@ I'm a person with many interests, some of which happen to be about coding and al
 
 I'm planning to use GitHub to store and archive all my coding related projects (and possibly a bit more) (also motivate my brain to do things by seeing the squares turn green).
 
-Currently working on a Bachelors engineering degree in IT. At my 3rd year and 5th semester as of now.
+Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6th semester as of now.
 
 -----
 
 ## Repo stats because they look coooool
-
-~~**Most Used Languages** Java-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
-
-**Most Used Languages** still plagued by **`Java`**. Overthrown *once* by **`Jupyter Notebook`** (but it grew out of control so I had to `yeet` it).
-
-**Top Languages by Repo** still plagued by **`Java`**.
-
-**Top Languages by Commit** still plagued by **`Java`**.
-
-The day some language pushes out Java %age out of all of those to the fifth place will be a day I'll make sure to celebrate.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight)
 
@@ -28,6 +18,23 @@ The day some language pushes out Java %age out of all of those to the fifth plac
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1) 
+ 
+### History of ***`The Curse of Java`***
+
+~~**Most Used Languages** Java-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
+
+**`Most Used Languages`** still plagued by **`Java`**. Overthrown *once* by **`Jupyter Notebook`** (but it grew out of control so I had to *yeet* it).
+
+**`Top Languages by Repo`**'s 1st place Java free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
+
+**`Top Languages by Commit`**'s 1st place Java free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
+
+**`Top Languages by Repo`**'s 2nd place still plagued by **`Java`**.
+
+**`Top Languages by Commit`**'s 2nd place still plagued by **`Java`**.
+
+The day some language pushes out Java %age out of all of those to the fifth place will be a day I'll make sure to celebrate.
+
  
 ## Things & technologies I have ever done anything with (and more or less knew what I was doing)
 
@@ -88,14 +95,3 @@ The day some language pushes out Java %age out of all of those to the fifth plac
 
 [![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-%2387CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
-
-## 2023 quarter I (January-February-Marchuary) kilometerrocks
-
-
-- [x] Survive
-- [x] Revive & work on MedSheet project (tracking med intake hours, Python, Google Sheets API, gspread) 
-- [x] Get done with my "frontend technologies" class (project, Figma design and Bootstrap code)
-- [x] Get done with my "backend technologies" class (project, Node.js, Swagger, OpenAPI YAML stuff, something else idk dude)
-- [x] Revise and practice SQL like a lot
-- [ ] Understand HTML & CSS & JavaScript better
-- [ ] Get a job because government won't pay for my funny cyan pills and cafe visits
