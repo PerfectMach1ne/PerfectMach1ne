@@ -1,4 +1,4 @@
-### Hello!
+## `heloo!!!!!!1`
 
 I'm a person with many interests, some of which happen to be about coding and all that.
 
@@ -8,7 +8,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 5t
 
 -----
 
-### Repo stats because they look coooool
+## Repo stats because they look coooool
 
 ~~**Most Used Languages** Java-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
 
@@ -29,9 +29,67 @@ The day some language pushes out Java %age out of all of those to the fifth plac
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1) 
  
------
+## Things & technologies I have ever done anything with (and more or less knew what I was doing)
 
-### 2023 quarter I (January-February-Marchuary) kilometerrocks
+### Programming languages
+
+[![C](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![SQL](https://img.shields.io/badge/-SQL%20-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+### Databases & SQL languages
+
+[![MySQL](https://img.shields.io/badge/-MySQL%20-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+### Frameworks & libraries
+
+[![Vue.js 2](https://img.shields.io/badge/-Vue.js%202-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://v2.vuejs.org/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/en/)
+[![Axios](https://img.shields.io/badge/-Axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-CE3B6C?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![gspread](https://img.shields.io/badge/-gspread-%2334A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.gspread.org/en/latest/)
+[![Swing](https://img.shields.io/badge/-Swing-467899?style=for-the-badge&logo=swing&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/start/index.html)
+
+### Tools
+
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![npm](https://img.shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-%2334A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
+[![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://www.google.com/docs/about/)
+[![Google Drive](https://img.shields.io/badge/-Google%20Drive-%234285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://www.google.com/drive/)
+[![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-%234285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://workspace.google.com/products/calendar/)
+
+### IDEs
+
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-%23FFFFFF?style=for-the-badge&logo=&logoColor=white)](http://www.codeblocks.org/)
+
+### OSs
+
+[![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-%2387CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+
+## 2023 quarter I (January-February-Marchuary) kilometerrocks
 
 
 - [x] Survive
