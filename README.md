@@ -93,6 +93,11 @@ The day some language pushes out Java %age out of all of those to the fifth plac
 [![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-%23FFFFFF?style=for-the-badge&logo=&logoColor=white)](http://www.codeblocks.org/)
 
+### Browser and search engine I ditched Chrome, Opera and Google for
+
+[![Firefox](https://img.shields.io/badge/-Firefox-%23FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/pl/firefox/new/)
+[![Bing](https://img.shields.io/badge/-Bing-%23258FFA?style=for-the-badge&logo=microsoft-bing&logoColor=white)](https://www.bing.com/)
+
 ### OSs
 
 [![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
