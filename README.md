@@ -10,7 +10,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 ## Repo stats because they look coooool
 
-![](http://github-readme-stats-beta-fawn.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight)
+![](http://github-readme-stats-git-master-perfectmach1ne.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark) 
