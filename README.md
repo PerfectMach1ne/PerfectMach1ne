@@ -12,13 +12,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 ### WIP+TODO, DON'T EXPECT ANY OF THIS TO MAKE SENSE AT THE MOMENT
 
-Frontend stuff \
-&ensp;HTML \
-&ensp;&ensp;CSS \
-&ensp;JavaScript \
-&ensp;&ensp;Vue.js 3 \
-&ensp;&ensp;&ensp;Vuetify \
-&ensp;&ensp;&ensp;Axios \
+#### Python FastAPI backend course (/w PostgreSQL & all the testing-Docker-deployment-CI/CD madness) (19h long)
 Backend stuff \
 &ensp;Fast API \
 &ensp;&ensp;Python \
@@ -27,6 +21,13 @@ Backend stuff \
 &ensp;&ensp;psycopg \
 &ensp;More Python \
 &ensp;PostgreSQL \
+![Frontend stuff HTML](https://img.shields.io/badge/Frontend-HTML-blue?style=for-the-badge&logo=appveyor)
+&ensp;HTML \
+&ensp;&ensp;CSS \
+&ensp;JavaScript \
+&ensp;&ensp;Vue.js 3 \
+&ensp;&ensp;&ensp;Vuetify \
+&ensp;&ensp;&ensp;Axios \
 Kotlin \
 &ensp;Swing \
 &ensp;(just a little bit of Java stuff) \
