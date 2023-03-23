@@ -8,35 +8,6 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 -----
 
-## *Thingdoing Crapstack Agenda* - 2023 2nd Quarter (Apr-May-Jun + a warmup for Mar)
-
-### WIP+TODO, DON'T EXPECT ANY OF THIS TO MAKE SENSE AT THE MOMENT
-
-Frontend stuff \
-&ensp;HTML \
-&ensp;&ensp;CSS \
-&ensp;JavaScript \
-&ensp;&ensp;Vue.js 3 \
-&ensp;&ensp;&ensp;Vuetify \
-&ensp;&ensp;&ensp;Axios \
-Backend stuff \
-&ensp;Fast API \
-&ensp;&ensp;Python \
-&ensp;&ensp;SQLAlchemy 2.0 \
-&ensp;&ensp;Pydantic \
-&ensp;&ensp;psycopg \
-&ensp;More Python \
-&ensp;PostgreSQL \
-Kotlin \
-&ensp;Swing \
-&ensp;(just a little bit of Java stuff) \
-&ensp;(maybe Android?) \
-The holy trinity of codemonkey tools \
-&ensp;Linux \
-&ensp;Bash scripting \
-&ensp;Docker \
-&ensp;&ensp;(Kubernetes if I turn unhinged enough) \
-
 ## Repo stats because they look coooool
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight)
