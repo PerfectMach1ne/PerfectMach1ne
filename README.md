@@ -10,17 +10,17 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 ## Repos and projects I am proud of
 
-<a href="https://github.com/PerfectMach1ne/uni-javacalendar">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-javacalendar&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/PerfectMach1ne/uni-frontend-vuejs">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-frontend-vuejs&theme=chartreuse-dark" />
+<a href="https://github.com/PerfectMach1ne/course-fastapi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=aura" />
 </a>
 <a href="https://github.com/PerfectMach1ne/med-sheet">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=med-sheet&theme=maroongold" />
 </a>
-<a href="https://github.com/PerfectMach1ne/course-fastapi">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=aura" />
+<a href="https://github.com/PerfectMach1ne/uni-frontend-vuejs">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-frontend-vuejs&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/PerfectMach1ne/uni-javacalendar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-javacalendar&theme=chartreuse-dark" />
 </a>
 
 ## Repo stats because they look coooool
