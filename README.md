@@ -52,7 +52,7 @@ The holy trinity of codemonkey tools \
 
 ~~**Most Used Languages** Java-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
 
-**`Most Used Languages`** still plagued by **`Java`**. Overthrown *once* by **`Jupyter Notebook`** (but it grew out of control so I had to *yeet* it).
+**`Most Used Languages`**'s 1st place Java free since `23/03/2023` thanks to **`Python`**.
 
 **`Top Languages by Repo`**'s 1st place Java free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
 
@@ -61,6 +61,8 @@ The holy trinity of codemonkey tools \
 **`Top Languages by Repo`**'s 2nd place still plagued by **`Java`**.
 
 **`Top Languages by Commit`**'s 2nd place still plagued by **`Java`**.
+
+**`Most Used Languages`**'s 2nd place still plagued by **`Java`**.
 
 The day some language pushes out Java %age out of all of those to the fifth place will be a day I'll make sure to celebrate.
 
