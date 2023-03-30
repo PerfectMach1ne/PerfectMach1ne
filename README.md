@@ -10,6 +10,9 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 ## Repos and projects I am proud of
 
+<a href="https://github.com/PerfectMach1ne/nw4-twt-archivist">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=nw4-twt-archivist&theme=maroongold" />
+</a>
 <a href="https://github.com/PerfectMach1ne/course-fastapi">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=chartreuse-dark" />
 </a>
