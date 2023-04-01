@@ -37,15 +37,19 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1) 
  
-### History of ***`The Curse of Java`***
+### History of ***`The Curse of Java` (and other uni junk)***
 
-~~**Most Used Languages** Java-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
+~~**`Most Used Languages`**'s 1st place `Java`-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
 
-**`Most Used Languages`**'s 1st place Java free since `23/03/2023` thanks to **`Python`**.
+**`Most Used Languages`**'s 1st place `Java` free since `23/03/2023` thanks to **`Python`**.
 
-**`Top Languages by Repo`**'s 1st place Java free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
+**`Top Languages by Repo`**'s 1st place `Java` free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
 
-**`Top Languages by Commit`**'s 1st place Java free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
+**`Top Languages by Commit`**'s 1st place `Java` free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
+
+**`Most Used Languages`** `TSQL`-sanitized since `30/03/2023` thanks to **`Bash Shell scripts`** and my **nw4-twt-archivist** project.
+
+**`Most Used Languages`**'s 2nd place `Java` free since `01/04/2023` thanks to **`C`** and my **Beej's Guide to C Programming** book studying.
 
 **`Top Languages by Repo`**'s 2nd place still plagued by **`Java`**.
 
@@ -53,7 +57,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 **`Most Used Languages`**'s 2nd place still plagued by **`Java`**.
 
-The day some language pushes out Java %age out of all of those to the fifth place will be a day I'll make sure to celebrate.
+**`Most Used Languages`** still plagued by the presence of  **`Scilab`** scripts.
 
  
 ## Things & technologies I have ever done anything with (and more or less knew what I was doing)
