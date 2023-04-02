@@ -55,7 +55,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 
 **`Top Languages by Commit`**'s 2nd place still plagued by **`Java`**.
 
-**`Most Used Languages`**'s 2nd place still plagued by **`Java`**.
+**`Most Used Languages`**'s 3rd place still plagued by **`Java`**.
 
 **`Most Used Languages`** still plagued by the presence of  **`Scilab`** scripts.
 
