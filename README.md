@@ -62,7 +62,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
  
 ## Things & technologies I have ever done anything with (and more or less knew what I was doing)
 
-...of course none of those pretty labels are a guarantee of excellent competence or good skill in any of those things. C++, CSS and a few SQL servers are prime examples - there was probably one (1) time when I knew what I was doing whilst using those languages. And my "knew-what-i-was-doing-ness" of Git behaves like photons - sometimes I know how to use this tool, sometimes I magically stop knowing what I'm doing.
+...of course none of those pretty labels are a guarantee of excellent competence or good skill in any of those things. C++, CSS and a few SQL servers are prime examples - there was probably one (1) time when I knew what I was doing whilst using those tools. And my "knew-what-i-was-doing-ness" of Git behaves like photons - sometimes I know how to use this tool, sometimes I magically stop knowing what I'm doing.
 
 ### Coding languages
 
