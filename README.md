@@ -68,15 +68,15 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 ### Coding languages
 
 [![C](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%23A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-%23563D7C?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![SQL](https://img.shields.io/badge/-SQL%20-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
 [![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ### Databases & SQL languages
 
