@@ -11,6 +11,9 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 ## Repos and projects I am proud of
 
 (These cards tend to break when you first load the page, but load correctly after a refresh. Idk why honestly.)
+<a href="https://github.com/PerfectMach1ne/uni-se-prj">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-se-prj&theme=aura" />
+</a>
 <a href="https://github.com/PerfectMach1ne/nw4-twt-archivist">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=nw4-twt-archivist&theme=maroongold" />
 </a>
