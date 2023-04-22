@@ -91,14 +91,16 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 ### Frameworks & libraries
 
 [![Vue.js 2](https://img.shields.io/badge/-Vue.js%202-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://v2.vuejs.org/)
+[![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-%2335495E?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/guide/introduction.html)
 [![Vuetify](https://img.shields.io/badge/-Vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://vuetifyjs.com/en/)
 [![Axios](https://img.shields.io/badge/-Axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
-[![Pydantic](https://img.shields.io/badge/-Pydantic-CE3B6C?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-%23D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![Alembic](https://img.shields.io/badge/-Alembic-%23699F28?style=for-the-badge&logo=alembic&logoColor=white)](https://alembic.sqlalchemy.org/en/latest/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-%23CE3B6C?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
 [![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![gspread](https://img.shields.io/badge/-gspread-%2334A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.gspread.org/en/latest/)
-[![Swing](https://img.shields.io/badge/-Swing-467899?style=for-the-badge&logo=swing&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/start/index.html)
+[![Swing](https://img.shields.io/badge/-Swing-%23467899?style=for-the-badge&logo=swing&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/start/index.html)
 
 ### Tools
 
@@ -112,7 +114,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-%2334A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
-[![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://www.google.com/docs/about/)
+[![Google Docs](https://img.shields.io/badge/-Google%20Docs-%234285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://www.google.com/docs/about/)
 [![Google Drive](https://img.shields.io/badge/-Google%20Drive-%234285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://www.google.com/drive/)
 [![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-%234285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://workspace.google.com/products/calendar/)
 
