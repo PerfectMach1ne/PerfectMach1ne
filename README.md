@@ -73,6 +73,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 [![C](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-%23A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Tcl](https://img.shields.io/badge/-Tcl-%23E4CC98?style=for-the-badge&logo=tcl&logoColor=white)](https://wiki.tcl-lang.org/)
 [![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
