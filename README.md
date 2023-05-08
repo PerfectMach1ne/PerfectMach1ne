@@ -31,39 +31,22 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 </a>
 
 ## Repo stats because they look coooool
+<p align="center">
+  <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PerfectMach1ne&theme=github_dark">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
+</p>
 
-[![Top Langs](https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PerfectMach1ne&theme=github_dark) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1) 
- 
-### History of ***`The Curse of Java` (and other uni junk)***
-
-~~**`Most Used Languages`**'s 1st place `Java`-free since `25/02/2023` thanks to **`Jupyter Notebook`** and my **Machine Learning** studies.~~
-
-**`Most Used Languages`**'s 1st place `Java` free since `23/03/2023` thanks to **`Python`**.
-
-**`Top Languages by Repo`**'s 1st place `Java` free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
-
-**`Top Languages by Commit`**'s 1st place `Java` free since `02/03/2023` thanks to **`Python`** and my **FastAPI** course coding.
-
-**`Most Used Languages`** `TSQL`-sanitized since `30/03/2023` thanks to **`Bash Shell scripts`** and my **nw4-twt-archivist** project.
-
-**`Most Used Languages`**'s 2nd place `Java` free since `01/04/2023` thanks to **`C`** and my **Beej's Guide to C Programming** book studying.
-
-**`Top Languages by Repo`**'s 2nd place still plagued by **`Java`**.
-
-**`Top Languages by Commit`**'s 2nd place still plagued by **`Java`**.
-
-**`Most Used Languages`**'s 3rd place still plagued by **`Java`**.
-
-**`Most Used Languages`** still plagued by the presence of  **`Scilab`** scripts.
-
- 
 ## Things & technologies I have ever done anything with (and more or less knew what I was doing)
 
 ...of course none of those pretty labels are a guarantee of excellent competence or good skill in any of those things. C++, CSS and a few SQL servers are prime examples - there was probably one (1) time when I knew what I was doing whilst using those tools. And my "knew-what-i-was-doing-ness" of Git behaves like photons - sometimes I know how to use this tool, sometimes I magically stop knowing what I'm doing.
