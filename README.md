@@ -31,6 +31,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 </a>
 
 ## Repo stats because they look coooool
+<p align="center"><em>oh, the <strong>misery</strong> of Java and boilerplate code . . .</em></p>
 <p align="center">
   <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
 </p>
@@ -42,6 +43,7 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight">
 </p>
+<p align="center">lil' disclaimer: I <em>self-star</em> some of my repos so that I can add them to list of repos I like to more or less frequently visit for some reasons (see my stars to instantly comprehend what I meant)</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PerfectMach1ne&theme=tokyonight">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
