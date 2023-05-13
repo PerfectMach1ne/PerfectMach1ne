@@ -112,11 +112,12 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 [![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-%23FFFFFF?style=for-the-badge&logo=&logoColor=white)](http://www.codeblocks.org/)
 
 ### Browser and search engine I ditched Chrome, Opera and Google for
-
+[![Opera](https://img.shields.io/badge/-Opera-%23FF1B2D?style=for-the-badge&logo=opera&logoColor=white)](https://www.opera.com)
+[![Edge](https://img.shields.io/badge/-Edge-%230078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e00)
 [![Firefox](https://img.shields.io/badge/-Firefox-%23FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mozilla.org/pl/firefox/new/)
 [![Bing](https://img.shields.io/badge/-Bing-%23258FFA?style=for-the-badge&logo=microsoft-bing&logoColor=white)](https://www.bing.com/)
 
 ### OSs
 
-[![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Windows 10](https://img.shields.io/badge/-Windows%2010-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-%2387CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
