@@ -31,10 +31,17 @@ Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6t
 </a>
 
 ## Repo stats because they look coooool
-<p align="center"><em>oh, the <strong>misery</strong> of Java and boilerplate code . . .</em></p>
-<p align="center">
-  <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
-</p>
+<div align="center">
+ <div>
+   <p><em>oh, the <strong>misery</strong> of Java and boilerplate code . . .</em></p>
+   <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
+ </div>
+ <div>
+  <p>Condensed language summary for the faint-hearted:</p>
+  <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook">
+ </div>
+</div>
+
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark">
