@@ -1,0 +1,33 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .horizontal {
+          display: flex;
+        }
+        
+        #chadlangs {
+          flex: 1;
+        }
+        
+        #faintheartedlangs {
+          flex: 1;
+        }
+      </style>
+      <div>
+        a
+        <div align="center" class="horizontal">
+          <div id="chadlangs">
+           <p><em>oh, the <strong>misery</strong> of Java and boilerplate code . . .</em></p>
+           <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
+          </div>
+          <div id="faintheartedlangs">
+            <p>Condensed language summary for the faint-hearted:</p>
+            <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook">
+          </div>
+        </div>
+        a
+      </div>
+    </div>
+  <foreignObject/>
+</svg>
