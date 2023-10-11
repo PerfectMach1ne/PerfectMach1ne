@@ -4,7 +4,7 @@ I'm a person with many interests, some of which happen to be about coding and al
 
 I'm planning to use GitHub to store and archive all my coding related projects (and possibly a bit more) (also motivate my brain to do things by seeing the squares turn green).
 
-Currently working on a Bachelors engineering degree in IT. At my 3rd year and 6th semester as of now.
+Currently working on a Bachelors engineering degree in IT. At my 4th year and 7th semester as of now.
 
 -----
 
