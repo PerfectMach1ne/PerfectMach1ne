@@ -26,15 +26,9 @@ Currently working on a Bachelors engineering degree in IT. At my 4th year and 7t
 </a>
 
 ## Repo stats because they look coooool
-<!-- <div align="center">
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="languages.svg" alt="Click to see the source">
-	</a>
-</div> -->
 
 <div align="center">
  <div>
-   <p><em>oh, the <strong>misery</strong> of Java and boilerplate code . . .</em></p>
    <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
  </div>
  <div>
