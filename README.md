@@ -11,12 +11,7 @@ Currently working on a Bachelors engineering degree in IT. At my 4th year and 7t
 ## Repos and projects I am proud of
 
 #### (These cards tend to break when you first load the page, but load correctly after a refresh. Idk why honestly.)
-<a href="https://github.com/PerfectMach1ne/uni-vue-fastapi-cal">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-vue-fastapi-cal&theme=aura" />
-</a>
-<a href="https://github.com/PerfectMach1ne/nw4-twt-archivist">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=nw4-twt-archivist&theme=maroongold" />
-</a>
+
 <a href="https://github.com/PerfectMach1ne/course-fastapi">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=chartreuse-dark" />
 </a>
@@ -48,15 +43,14 @@ Currently working on a Bachelors engineering degree in IT. At my 4th year and 7t
  </div>
 </div>
 
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
+</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PerfectMach1ne&theme=github_dark">
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerfectMach1ne&theme=tokyonight">
 </p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
-</p>
+
