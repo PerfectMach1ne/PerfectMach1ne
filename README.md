@@ -25,7 +25,7 @@ Currently working on a Bachelors engineering degree in IT. At my 4th year and 7t
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-javacalendar&theme=aura" />
 </a>
 
-## Repo stats because they look coooool
+## The "language" and repo statistics because they look coooool
 
 <div align="center">
  <div>
