@@ -9,7 +9,7 @@ Currently working on a Bachelors engineering degree in IT. At my 4th year and 7t
 My self-proclaimed, most up-to-date (and realistic), title(s) of this quarter-of-a-year is(/are)...
 </h3>
 <h1 align="center">
-$$\texttt{\color{red}Confidently Confused Thing Developer-Engineer!}$$
+$$\texttt{\color{red}Confidently Confused, Learning Developer-Engineer!}$$
 $$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
 </h1>
 
