@@ -18,17 +18,17 @@ $$\texttt{\color{red}Clueless Thing Developer-Engineer!}$$
 
 #### (These cards tend to break when you first load the page, but load correctly after a refresh. Idk why honestly.)
 
+<!-- <a href="https://github.com/PerfectMach1ne/med-sheet">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=med-sheet&theme=maroongold" />
+</a> -->
+<a href="https://github.com/PerfectMach1ne/uni-sys-integr">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-sys-integr&theme=aura" />
+</a>
+<a href="https://github.com/PerfectMach1ne/uni-vue-fastapi-cal">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-vue-fastapi-cal&theme=aura" />
+</a>
 <a href="https://github.com/PerfectMach1ne/course-fastapi">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/PerfectMach1ne/med-sheet">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=med-sheet&theme=maroongold" />
-</a>
-<a href="https://github.com/PerfectMach1ne/uni-frontend-vuejs">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-frontend-vuejs&theme=aura" />
-</a>
-<a href="https://github.com/PerfectMach1ne/uni-javacalendar">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-javacalendar&theme=aura" />
 </a>
 
 ## The "language" and repo statistics because they look coooool
