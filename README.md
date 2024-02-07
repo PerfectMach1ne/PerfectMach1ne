@@ -6,10 +6,11 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 Currently working on a Bachelors engineering degree in IT. At my 4th year and 7th semester as of now.
 <h3 align="center">
-My self-proclaimed most up-to-date and realistic title of the year quarter is...
+My self-proclaimed, most up-to-date (and realistic), title(s) of this quarter-of-a-year is(/are)...
 </h3>
 <h1 align="center">
 $$\texttt{\color{red}Clueless Thing Developer-Engineer!}$$
+$$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
 </h1>
 
 -----
