@@ -27,9 +27,9 @@ $$\texttt{\color{red}Clueless Thing Developer-Engineer!}$$
 <a href="https://github.com/PerfectMach1ne/uni-vue-fastapi-cal">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-vue-fastapi-cal&theme=aura" />
 </a>
-<a href="https://github.com/PerfectMach1ne/course-fastapi">
+<!-- <a href="https://github.com/PerfectMach1ne/course-fastapi">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=chartreuse-dark" />
-</a>
+</a> -->
 
 ## The "language" and repo statistics because they look coooool
 
