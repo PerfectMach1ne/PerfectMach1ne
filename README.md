@@ -34,18 +34,11 @@ $$\texttt{\color{red}Clueless Thing Developer-Engineer!}$$
 ## The "language" and repo statistics because they look coooool
 
 <div align="center">
- <div>
-   <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
- </div>
- <div>
-  <p>Condensed language summary for the faint-hearted:</p>
-  <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook">
- </div>
+<img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
+<img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
 </div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
-</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PerfectMach1ne&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PerfectMach1ne&theme=github_dark">
