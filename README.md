@@ -5,6 +5,12 @@ I'm a person with many interests, some of which happen to be about coding and al
 I'm planning to use GitHub to store and archive all my coding related projects (and possibly a bit more) (also motivate my brain to do things by seeing the squares turn green).
 
 Currently working on a Bachelors engineering degree in IT. At my 4th year and 7th semester as of now.
+<h3 align="center">
+My self-proclaimed most up-to-date and realistic title of the year quarter is...
+</h3>
+<h1 align="center">
+$$\texttt{\color{red}Clueless Thing Developer-Engineer!}$$
+</h1>
 
 -----
 
