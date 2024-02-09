@@ -35,8 +35,8 @@ $$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
 ## The "language" and repo statistics because they look coooool
 
 <div align="center">
-<img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook">
-<img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook">
+<img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook,tsql,mako,cmake">
+<img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=10&hide=jupyter%20notebook,tsql,mako,cmake">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PerfectMach1ne&theme=tokyonight&utcOffset=1">
 </div>
 
