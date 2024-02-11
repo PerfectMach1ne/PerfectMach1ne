@@ -23,7 +23,7 @@ $$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=med-sheet&theme=maroongold" />
 </a> -->
 <a href="https://github.com/PerfectMach1ne/uni-sys-integr">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-sys-integr&theme=aura" />
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-sys-integr&theme=maroongold" />
 </a>
 <a href="https://github.com/PerfectMach1ne/uni-vue-fastapi-cal">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-vue-fastapi-cal&theme=aura" />
