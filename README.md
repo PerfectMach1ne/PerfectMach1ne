@@ -22,11 +22,17 @@ $$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
 <!-- <a href="https://github.com/PerfectMach1ne/med-sheet">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=med-sheet&theme=maroongold" />
 </a> -->
-<a href="https://github.com/PerfectMach1ne/uni-sys-integr">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-sys-integr&theme=maroongold" />
+<a href="https://github.com/PerfectMach1ne/psiNotes-DocYoinker">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=psiNotes-DocYoinker&theme=maroongold" />
 </a>
-<a href="https://github.com/PerfectMach1ne/uni-vue-fastapi-cal">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=uni-vue-fastapi-cal&theme=aura" />
+<a href="https://github.com/PerfectMach1ne/starr-psi-notes.neocities.org">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=starr-psi-notes.neocities.org&theme=maroongold" />
+</a>
+<a href="https://github.com/PerfectMach1ne/Jaccal__uni-sys-integr">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal__uni-sys-integr&theme=maroongold" />
+</a>
+<a href="https://github.com/PerfectMach1ne/vCalendar__uni-vue-fastapi-cal">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=vCalendar__uni-vue-fastapi-cal&theme=aura" />
 </a>
 <!-- <a href="https://github.com/PerfectMach1ne/course-fastapi">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=chartreuse-dark" />
