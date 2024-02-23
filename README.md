@@ -29,7 +29,7 @@ $$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=starr-psi-notes.neocities.org&theme=maroongold" />
 </a>
 <a href="https://github.com/PerfectMach1ne/Jaccal__uni-sys-integr">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal__uni-sys-integr&theme=maroongold" />
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal__uni-sys-integr&theme=aura" />
 </a>
 <a href="https://github.com/PerfectMach1ne/vCalendar__uni-vue-fastapi-cal">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=vCalendar__uni-vue-fastapi-cal&theme=aura" />
