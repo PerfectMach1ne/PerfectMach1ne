@@ -4,44 +4,20 @@ I'm a person with many interests, some of which happen to be about coding and al
 
 I'm planning to use GitHub to store and archive all my coding related projects (and possibly a bit more) (also motivate my brain to do things by seeing the squares turn green).
 
-Currently working on a Bachelors engineering degree in IT. At my 4th year and 7th semester as of now.
-<h3 align="center">
-My self-proclaimed, most up-to-date (and realistic), title(s) of this quarter-of-a-year is(/are)...
-</h3>
-<h1 align="center">
-$$\texttt{\color{darkblue}Confidently Confused, Learning Developer-Engineer!}$$
-$$\texttt{\color{teal}Struggling CS almost-Graduate...}$$
-</h1>
-
 -----
 
 ## Repos and projects I am proud of
 
 #### (These cards tend to break when you first load the page, but load correctly after a refresh. Idk why honestly.)
 
-<!-- <a href="https://github.com/PerfectMach1ne/med-sheet">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=med-sheet&theme=maroongold" />
-</a> -->
-<a href="https://github.com/PerfectMach1ne/microproject_stash">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=microproject_stash&theme=outrun" />
+<a href="https://github.com/PerfectMach1ne/starr-and-eden.neocities.org">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=starr-and-eden.neocities.org&theme=maroongold" />
 </a>
-<a href="https://github.com/PerfectMach1ne/starr-psi-notes.neocities.org">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=starr-psi-notes.neocities.org&theme=maroongold" />
+<a href="https://github.com/PerfectMach1ne/Jaccal">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal&theme=aura" />
 </a>
-<a href="https://github.com/PerfectMach1ne/psiNotes-DocYoinker">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=psiNotes-DocYoinker&theme=maroongold" />
-</a>
-<a href="https://github.com/PerfectMach1ne/Jaccal__uni-sys-integr">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal__uni-sys-integr&theme=aura" />
-</a>
-<!-- <a href="https://github.com/PerfectMach1ne/vCalendar__uni-vue-fastapi-cal">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=vCalendar__uni-vue-fastapi-cal&theme=aura" />
-</a> -->
-<!-- <a href="https://github.com/PerfectMach1ne/course-fastapi">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=chartreuse-dark" />
-</a> -->
 
-## The "language" and repo statistics because they look coooool
+## The "language" and stupid repo statistics because they look coooool
 
 <div align="center">
 <img src="https://github-readme-stats-f9jowu2ic-perfectmach1ne.vercel.app/api/top-langs/?username=PerfectMach1ne&layout=compact&theme=gradient&bg_color=90,AA8ED6,5EAEEC&text_color=FFFFFF&title_color=FFFFFF&langs_count=20&hide=jupyter%20notebook,tsql,mako">
