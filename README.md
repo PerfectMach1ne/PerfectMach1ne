@@ -10,6 +10,13 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 #### (These cards tend to break when you first load the page, but load correctly after a refresh. Idk why honestly.)
 
+
+<a href="https://github.com/PerfectMach1ne/three-phase-calendar">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=three-phase-calendar&theme=maroongold" />
+</a>
+<a href="https://github.com/PerfectMach1ne/psiNotes-DocYoinker">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=psiNotes-DocYoinker&theme=maroongold" />
+</a>
 <a href="https://github.com/PerfectMach1ne/starr-and-eden.neocities.org">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=starr-and-eden.neocities.org&theme=maroongold" />
 </a>
