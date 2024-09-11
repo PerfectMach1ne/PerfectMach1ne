@@ -23,6 +23,9 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 <a href="https://github.com/PerfectMach1ne/Jaccal">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal&theme=aura" />
 </a>
+<a href="https://github.com/PerfectMach1ne/course-fastapi">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=course-fastapi&theme=outrun" />
+</a>
 
 ## The "language" and stupid repo statistics because they look coooool
 
