@@ -81,7 +81,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ⭐
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Gleam](https://img.shields.io/badge/Gleam-%23454273.svg?style=flat-square&logo=gleam&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
 
 FUQ (Frequently Unasked Questions!):
