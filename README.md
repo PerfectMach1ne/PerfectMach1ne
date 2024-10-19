@@ -36,7 +36,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ⭐⭐⭐⭐⭐⭐⭐
 
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-%234285F4.svg?style=flat-square&logo=googledocs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%234285F4.svg?style=flat-square&logo=googlesheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2300DC82.svg?style=flat-square&logo=googlesheets&logoColor=white)
 
 ⭐⭐⭐⭐⭐
 
@@ -52,32 +52,37 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 ![Java (OpenJDK)](https://img.shields.io/badge/Java-%23FFFFFF.svg?style=flat-square&logo=openjdk&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square)
+![HTTP/1.1](https://img.shields.io/badge/HTTP%2F1.1-%23000000.svg?style=flat-square)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ⭐⭐⭐
 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Vue.js 3](https://img.shields.io/badge/Vue.js%203-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vue.js 2](https://img.shields.io/badge/Vue.js%202-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ⭐⭐
 
-![Vue.js 3](https://img.shields.io/badge/Vue.js%203-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vue.js 2](https://img.shields.io/badge/Vue.js%202-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 
 ⭐
 
-![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-%23454273.svg?style=flat-square&logo=gleam&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
 
 FUQ (Frequently Unasked Questions!):
 
