@@ -93,6 +93,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white)
