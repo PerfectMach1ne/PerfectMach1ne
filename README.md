@@ -56,13 +56,16 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square)
 ![HTTP/1.1](https://img.shields.io/badge/HTTP%2F1.1-%23000000.svg?style=flat-square)
 
-⭐⭐⭐⭐ ***("Beginner" strive, want to get way better at it)***
+⭐⭐⭐⭐ ***("Beginner" strive, want to get way better at it; except Java Swing)***
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
+![REST](https://img.shields.io/badge/REST-%23009688.svg?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%233F51B5.svg?style=flat-square)
 ![sbt](https://img.shields.io/badge/sbt-%23BF4040.svg?style=flat-square&logo=sbt&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat-square&logo=gradle&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%2342785B.svg?style=flat-square)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-%23b07219.svg?style=flat-square)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
@@ -74,9 +77,9 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?style=flat-square)
 ![Vue.js 3](https://img.shields.io/badge/Vue.js%203-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vue.js 2](https://img.shields.io/badge/Vue.js%202-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-
 
 ⭐⭐ ***("Chaotic neutral beginner" strive; it's like a stressball toy)***
 
@@ -90,6 +93,17 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+
+🗑️ ♻️ ***(Corner of Shame; I'd rather put pickle slices on Big Macs than put this on my machine again)***
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=androidstudio&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=flat-square&logo=windows&logoColor=white)
 
 FUQ (Frequently Unasked Questions!):
 
