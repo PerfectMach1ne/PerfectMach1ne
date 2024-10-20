@@ -87,6 +87,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Tcl](https://img.shields.io/badge/Tcl-%2370280F.svg?style=flat-square)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ⭐ ***("ToDo" strive; basically nothing, or rather - a veeeery long-term wishlist targeted at myself)***
 
