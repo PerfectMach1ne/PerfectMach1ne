@@ -88,15 +88,26 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 
-⭐ ***("ToDo" strive; basically nothing)***
+⭐ ***("ToDo" strive; basically nothing, or rather - a veeeery long-term wishlist targeted at myself)***
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-%23005CA5.svg?style=flat-square)
+![HTTP/2](https://img.shields.io/badge/HTTP%2F2-%230056D0.svg?style=flat-square)
+![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-%23008080.svg?style=flat-square&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Solid](https://img.shields.io/badge/Solid-%232C4F7C.svg?style=flat-square&logo=solid&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Spring Web](https://img.shields.io/badge/Spring%20Web-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%23F05033.svg?style=flat-square)
+![Void Linux](https://img.shields.io/badge/Void%20Linux-%2300BFAE.svg?style=flat-square&logo=void-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
