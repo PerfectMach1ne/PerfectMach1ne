@@ -80,6 +80,12 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Web Components](https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?style=flat-square)
 ![Vue.js 3](https://img.shields.io/badge/Vue.js%203-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vue.js 2](https://img.shields.io/badge/Vue.js%202-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%23F05033.svg?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=flat-square&logo=amazoniam&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)
 
 ⭐⭐ ***("Chaotic neutral beginner" strive; it's like a stressball toy)***
 
@@ -107,10 +113,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Web](https://img.shields.io/badge/Spring%20Web-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring%20Data-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-%23F05033.svg?style=flat-square)
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-%2300BFAE.svg?style=flat-square&logo=void-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
 🗑️ ♻️ ***(Corner of Shame; I'd rather put pickle slices on Big Macs than put this on my machine again)***
