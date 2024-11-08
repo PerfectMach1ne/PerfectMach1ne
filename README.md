@@ -58,6 +58,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
 ⭐⭐⭐⭐ ***("Beginner" strive, want to get way better at it; except Java Swing)***
 
@@ -72,7 +73,6 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-%23b07219.svg?style=flat-square)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
 ⭐⭐⭐ ***("Familiar" strive, but I've yet to build something bigger with it or study it deeper)***
 
