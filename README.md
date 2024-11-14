@@ -42,7 +42,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=cashapp&logoColor=white)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%235C6AC4.svg?style=flat-square&logo=archlinux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2300875C.svg?style=flat-square&logo=linuxmint&logoColor=white)
 
@@ -52,13 +52,13 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![HTTP/1.1](https://img.shields.io/badge/HTTP%2F1.1-%23000000.svg?style=flat-square)
+![HTTP/1.1](https://img.shields.io/badge/HTTP%2F1.1-%23000000.svg?style=flat-square&logo=hexo&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-%23009688.svg?style=flat-square)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=cashapp&logoColor=white)
 
 ⭐⭐⭐⭐⭐ ***(confident & with more experience)***
 
@@ -66,7 +66,8 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
-![IP/TCP/UDP](https://img.shields.io/badge/IP%2FTCP%2FUDP-%233BB38B.svg?style=flat-square&logo=writedotas&logoColor=white)
+![IP/TCP/UDP](https://img.shields.io/badge/IP%2FTCP%2FUDP-%233BB38B.svg?style=flat-square&logo=qiskit&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%23181485.svg?style=flat-square?&logo=internetcomputer&logoColor=white)
 
 ⭐⭐⭐⭐ ***(want to get way better at it; except Java Swing)***
 
@@ -82,7 +83,6 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23D62D20.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-%23F05033.svg?style=flat-square)
 
 ⭐⭐⭐ ***(I've yet to build something bigger with it or study it deeper)***
 
@@ -90,16 +90,16 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
-![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square)
-![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF4F8B.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square&logo=hexo&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF4F8B.svg?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF4F8B.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%239023C2.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%239023C2.svg?style=flat-square&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazonec2&logoColor=white)
 
 ⭐⭐ ***(it's like a stressball toy)***
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=cashapp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
@@ -124,7 +124,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 🗑️ ♻️ ***(Corner of Shame; I'd rather put pickle slices on Big Macs than put this on my machine again)***
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=androidstudio&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=flat-square&logo=cashapp&logoColor=white)
 
 FUQ (Frequently Unasked Questions!):
 
