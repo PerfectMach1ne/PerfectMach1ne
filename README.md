@@ -51,6 +51,8 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%235C6AC4.svg?style=flat-square&logo=archlinux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2300875C.svg?style=flat-square&logo=linuxmint&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=wordpress&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ⭐⭐⭐⭐⭐ ***("Junior" strive; think beginner, but confident & with more experience)***
 
@@ -61,26 +63,28 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
 ⭐⭐⭐⭐ ***("Beginner" strive, want to get way better at it; except Java Swing)***
-
+ 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js 3](https://img.shields.io/badge/Vue.js%203-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vue.js 2](https://img.shields.io/badge/Vue.js%202-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-%23b07219.svg?style=flat-square)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%233F51B5.svg?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-%2342785B.svg?style=flat-square)
 ![sbt](https://img.shields.io/badge/sbt-%23BF4040.svg?style=flat-square&logo=sbt&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat-square&logo=gradle&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java%20Swing-%23b07219.svg?style=flat-square)
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ⭐⭐⭐ ***("Familiar" strive, but I've yet to build something bigger with it or study it deeper)***
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?style=flat-square)
-![Vue.js 3](https://img.shields.io/badge/Vue.js%203-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vue.js 2](https://img.shields.io/badge/Vue.js%202-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=flat-square&logo=amazoniam&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)
 
 ⭐⭐ ***("Chaotic neutral beginner" strive; it's like a stressball toy)***
 
@@ -89,22 +93,17 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=flat-square&logo=amazoniam&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23F05033.svg?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 ⭐ ***("ToDo" strive; basically nothing, or rather - a veeeery long-term wishlist targeted at myself)***
 
-![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-%23005CA5.svg?style=flat-square)
-![HTTP/2](https://img.shields.io/badge/HTTP%2F2-%230056D0.svg?style=flat-square)
-![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-%23008080.svg?style=flat-square&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-%233DDC84.svg?style=flat-square&logo=android&logoColor=white)
