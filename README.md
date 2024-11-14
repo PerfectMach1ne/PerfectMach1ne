@@ -78,9 +78,8 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![sbt](https://img.shields.io/badge/sbt-%23BF4040.svg?style=flat-square&logo=sbt&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat-square&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=flat-square&logo=amazoniam&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23D62D20.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23F05033.svg?style=flat-square)
 
 ⭐⭐⭐ ***(I've yet to build something bigger with it or study it deeper)***
@@ -90,6 +89,10 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?style=flat-square)
 ![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF4F8B.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF4F8B.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%239023C2.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ⭐⭐ ***(it's like a stressball toy)***
 
