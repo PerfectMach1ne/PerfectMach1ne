@@ -107,7 +107,6 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-%2300BFAE.svg?style=flat-square&logo=void-linux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=flat-square&logo=cashapp&logoColor=white)
 
 ⭐ ***(consider this a veeeery long-term wishlist targeted at myself)***
 
