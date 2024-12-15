@@ -16,8 +16,8 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 <a href="https://github.com/PerfectMach1ne/psiNotes-DocYoinker">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=psiNotes-DocYoinker&theme=maroongold" />
 </a>
-<a href="https://github.com/PerfectMach1ne/starr-and-eden.neocities.org">
- <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=starr-and-eden.neocities.org&theme=maroongold" />
+<a href="https://github.com/PerfectMach1ne/netcatcat.net">
+ <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=netcatcat.net&theme=maroongold" />
 </a>
 <a href="https://github.com/PerfectMach1ne/Jaccal">
  <img align="center" src="https://github-readme-stats-62bz0xsm9-perfectmach1ne.vercel.app/api/pin/?username=PerfectMach1ne&repo=Jaccal&theme=aura" />
