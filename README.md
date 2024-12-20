@@ -67,6 +67,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![IP/TCP/UDP](https://img.shields.io/badge/IP%2FTCP%2FUDP-%233BB38B.svg?style=flat-square&logo=qiskit&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-%23F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23181485.svg?style=flat-square?&logo=internetcomputer&logoColor=white)
 
 ⭐⭐⭐⭐ ***(want to get way better at it; except Java Swing)***
@@ -86,11 +87,17 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 ⭐⭐⭐ ***(I've yet to build something bigger with it or study it deeper)***
 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-%2370280F.svg?style=flat-square&logo=apache&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
 ![Web Components](https://img.shields.io/badge/Web%20Components-%2329ABE2.svg?style=flat-square&logo=webcomponentsdotorg&logoColor=white)
 ![HTTP/3](https://img.shields.io/badge/HTTP%2F3-%232F93E0.svg?style=flat-square&logo=hexo&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF4F8B.svg?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF4F8B.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-%239023C2.svg?style=flat-square&logo=amazons3&logoColor=white)
@@ -98,14 +105,12 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 ⭐⭐ ***(it's like a stressball toy)***
 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=cashapp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Gleam](https://img.shields.io/badge/Gleam-%23FFB3E7.svg?style=flat-square&logo=gleam&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234A3F78.svg?style=flat-square&logo=elixir&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-%2300BFAE.svg?style=flat-square&logo=void-linux&logoColor=white)
 
 ⭐ ***(consider this a veeeery long-term wishlist targeted at myself)***
