@@ -43,7 +43,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=cashapp&logoColor=white)
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%235C6AC4.svg?style=flat-square&logo=archlinux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237C3CBC.svg?style=flat-square&logo=archlinux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2300875C.svg?style=flat-square&logo=linuxmint&logoColor=white)
 
 ⭐⭐⭐⭐⭐⭐ ***(like 5 stars, but I find it even easier)***
