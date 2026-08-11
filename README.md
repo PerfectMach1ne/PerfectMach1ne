@@ -31,6 +31,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 ## My strivings
 
+**`2026 update, please don't take those too seriously. I had a badge phase (I still do, it always comes back to haunt me on leap years).`**
 *Always remember - sky's the limit!*
 
 ⭐⭐⭐⭐⭐⭐⭐ ***(I've made more things with those toys; yes, Google Docs & Sheets included, trust me on this)***
