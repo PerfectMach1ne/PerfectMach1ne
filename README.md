@@ -6,7 +6,7 @@ I'm planning to use GitHub to store and archive all my coding related projects (
 
 -----
 
-## Repos and projects I am proud of
+## Repos and projects (public ones) that I am proud of
 
 #### (These cards tend to break when you first load the page, but load correctly after a refresh. Idk why honestly.)
 
